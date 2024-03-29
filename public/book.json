@@ -1,0 +1,80 @@
+[
+    {
+        "bookId": 1,
+        "bookName": "1984",
+        "author": "George Orwell",
+        "image": "https://i.ibb.co/1LMTjYr/kindpng-1064993.png",
+        "review": "George Orwell's '1984' is a haunting vision of a totalitarian future where individuality is crushed by oppressive regimes. With its stark warnings about surveillance and thought control, this classic remains as relevant today as when it was first published.",
+        "totalPages": 328,
+        "rating": 4.5,
+        "category": "Fiction",
+        "tags": ["Dystopian", "Political", "Classic"],
+        "publisher": "Penguin Books",
+        "yearOfPublishing": 1949
+    },
+    {
+        "bookId": 2,
+        "bookName": "To Kill a Mockingbird",
+        "author": "Harper Lee",
+        "image": "https://i.ibb.co/x2DkDxV/kindpng-7318921.png",
+        "review": "Harper Lee's 'To Kill a Mockingbird' is a timeless exploration of racial injustice and moral growth in the American South. Through the eyes of Scout Finch, readers confront deep-seated prejudices and the search for empathy and understanding.",
+        "totalPages": 336,
+        "rating": 4.8,
+        "category": "Fiction",
+        "tags": ["Coming of Age", "Legal Drama", "Southern Gothic"],
+        "publisher": "HarperCollins",
+        "yearOfPublishing": 1960
+    },
+    {
+        "bookId": 3,
+        "bookName": "The Great Gatsby",
+        "author": "F. Scott Fitzgerald",
+        "image": "https://i.ibb.co/J3Kpp1g/kindpng-81724-1.png",
+        "review": "F. Scott Fitzgerald's 'The Great Gatsby' is a mesmerizing tale of love, wealth, and the American Dream set against the backdrop of the Roaring Twenties. Through lavish parties and tragic consequences, Fitzgerald crafts a haunting critique of the pursuit of happiness.",
+        "totalPages": 180,
+        "rating": 4.6,
+        "category": "Fiction",
+        "tags": ["Romance", "Tragedy", "Classic"],
+        "publisher": "Scribner",
+        "yearOfPublishing": 1925
+    },
+    {
+        "bookId": 4,
+        "bookName": "Sapiens: A Brief History of Humankind",
+        "author": "Yuval Noah Harari",
+        "image": "https://i.ibb.co/bXVVYsp/kindpng-2193744-1.png",
+        "review": "Yuval Noah Harari's 'Sapiens: A Brief History of Humankind' offers a fascinating journey through the history of our species, from the emergence of Homo sapiens to the present day. With insight and wit, Harari challenges conventional wisdom and prompts readers to rethink humanity's story.",
+        "totalPages": 464,
+        "rating": 4.7,
+        "category": "Non-Fiction",
+        "tags": ["History", "Anthropology", "Science"],
+        "publisher": "HarperCollins",
+        "yearOfPublishing": 2011
+    },
+    {
+        "bookId": 5,
+        "bookName": "The Catcher in the Rye",
+        "author": "J.D. Salinger",
+        "image": "https://i.ibb.co/3hC44sB/kindpng-4945926-1.png",
+        "review": "J.R.R. Tolkien's 'The Hobbit' takes readers on an unforgettable adventure through Middle-earth. With its charming characters and epic quests, this timeless tale of Bilbo Baggins captivates audiences of all ages, weaving a rich tapestry of courage, friendship, and heroism.",
+        "totalPages": 224,
+        "rating": 4.4,
+        "category": "Fiction",
+        "tags": ["Coming of Age", "Literary Fiction"],
+        "publisher": "Little, Brown and Company",
+        "yearOfPublishing": 1951
+    },
+    {
+        "bookId": 6,
+        "bookName": "The Hobbit",
+        "author": "J.R.R. Tolkien",
+        "image": "https://i.ibb.co/5K26ZJ5/kindpng-5624060-1.png",
+        "review": "J.D. Salinger's 'The Catcher in the Rye' is a poignant exploration of teenage angst and alienation. Through the eyes of Holden Caulfield, readers confront the challenges of growing up, the loss of innocence, and the search for authenticity in a phony world.",
+        "totalPages": 310,
+        "rating": 4.9,
+        "category": "Fantasy",
+        "tags": ["Adventure", "Quest", "Middle-earth"],
+        "publisher": "Allen & Unwin",
+        "yearOfPublishing": 1937
+    }
+]
